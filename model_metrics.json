@@ -1,0 +1,7 @@
+{
+  "r2": 0.8889,
+  "mae": 5.2225,
+  "r2_unseen": 0.8696,
+  "mae_unseen": 5.3831,
+  "training_runs": 4558
+}
